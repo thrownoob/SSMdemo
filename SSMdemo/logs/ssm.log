@@ -1,0 +1,5 @@
+[INFO] [2019-03-19 15:52:45][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2019-03-19 15:52:45][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@5034c75a: startup date [Tue Mar 19 15:52:45 CST 2019]; root of context hierarchy
+[INFO] [2019-03-19 15:52:45][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-03-19 15:52:46][com.on.web.text.Demo1]{"name":"ee","pw":"qqws","uuid":"1"}
+[INFO] [2019-03-19 15:52:46][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@5034c75a: startup date [Tue Mar 19 15:52:45 CST 2019]; root of context hierarchy
