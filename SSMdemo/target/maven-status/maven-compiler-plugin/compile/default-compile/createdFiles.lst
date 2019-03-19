@@ -1,0 +1,5 @@
+com\on\web\dao\MyBatisBaseDao.class
+com\on\web\mod\User.class
+com\on\web\service\Userservice.class
+com\on\web\serviceImp\UserserviceImp.class
+com\on\web\dao\UserDAO.class
