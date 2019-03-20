@@ -140,3 +140,18 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
 [INFO] [2019-03-19 17:18:38][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
 [INFO] [2019-03-19 17:18:39][com.on.web.text.Demo1]{"name":"ee","pw":"qqws","uuid":"1"}
 [INFO] [2019-03-19 17:18:39][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@5034c75a: startup date [Tue Mar 19 17:18:38 CST 2019]; root of context hierarchy
+[INFO] [2019-03-20 09:33:17][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2019-03-20 09:33:17][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@5034c75a: startup date [Wed Mar 20 09:33:17 CST 2019]; root of context hierarchy
+[INFO] [2019-03-20 09:33:17][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-03-20 09:33:18][com.on.web.text.Demo1]{"name":"ee","pw":"qqws","uuid":"1"}
+[INFO] [2019-03-20 09:33:18][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@5034c75a: startup date [Wed Mar 20 09:33:17 CST 2019]; root of context hierarchy
+[INFO] [2019-03-20 09:39:35][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2019-03-20 09:39:35][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@5034c75a: startup date [Wed Mar 20 09:39:35 CST 2019]; root of context hierarchy
+[INFO] [2019-03-20 09:39:36][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-03-20 09:39:36][com.on.web.text.Demo1]{"name":"ee","pw":"qqws","uuid":"1"}
+[INFO] [2019-03-20 09:39:36][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@5034c75a: startup date [Wed Mar 20 09:39:35 CST 2019]; root of context hierarchy
+[INFO] [2019-03-20 10:55:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2019-03-20 10:55:07][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@735b5592: startup date [Wed Mar 20 10:55:07 CST 2019]; root of context hierarchy
+[INFO] [2019-03-20 10:55:07][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-03-20 10:55:07][com.on.web.text.Demo1]{"name":"ee","pw":"qqws","uuid":"1"}
+[INFO] [2019-03-20 10:55:07][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@735b5592: startup date [Wed Mar 20 10:55:07 CST 2019]; root of context hierarchy
